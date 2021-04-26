@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Descuento del 30% en todo",
+    "description": "Podrás adquirir un 30% de descuento en todos nuestros productos. Se aplicará el descuento solo al primer producto",
+    "type": 1,
+    "date": "12-12-12",
+    "image": "https://www.flipflopdesign.co.uk/wp-content/uploads/2018/12/packaging_design-goodsciencebeauty.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Descuento de S/ 5 en mascarillas",
+    "description": "Podrás tener un descuento de S/ 5 soles en cualquier mascarilla, este descuento es aplicable hasta un máximo de 3 mascarillas por persona o hasta agotar stock",
+    "type": 2,
+    "date": "12-12-12",
+    "image": "https://ctl.s6img.com/society6/img/g4J9mBkk2_RdEtWKeeNaak0zimg/w_700/masks/main/~artwork,fw_1245,fh_1170,fy_-38,iw_1245,ih_1245/s6-original-art-uploads/society6/uploads/misc/a6066667cb924ac49e0c0226b30649a6/~~/abstract-nature-leaf-minimalist-print-masks.jpg?wait=0&attempt=0"
+  },
+  {
+    "id": 3,
+    "name": "Descuento en cremas",
+    "description": "Podrás tener un descuento de S/ 15 soles en todas las cremas o hasta agotar stock",
+    "type": 2,
+    "date": "12-12-12",
+    "image": "https://www.flipflopdesign.co.uk/wp-content/uploads/2016/10/swell_hair_9-2040x1208.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Descuento de 10% en limpieza",
+    "description": "Podrás tener un descuento de 10% en todos los productos de categoría limpieza. Este cupón no es acumulable con otros descuentos.",
+    "type": 1,
+    "date": "12-12-12",
+    "image": "https://www.flipflopdesign.co.uk/wp-content/uploads/2018/12/minimalist_packaging_design_tangent-tgc_denimwash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Descuento en jabón",
+    "description": "Podrás tener un descuento de S/ 15 soles en todos los jabones o hasta agotar stock",
+    "type": 2,
+    "date": "12-12-12",
+    "image": "https://www.flipflopdesign.co.uk/wp-content/uploads/2018/12/Minimalist_packaging_Shine_Maude.jpg"
+  }
+]
